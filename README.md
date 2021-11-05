@@ -1,7 +1,31 @@
-### Hi there 👋
+
+<!-- | | | 
+|:-------------------------:|:-------------------------:|
+|<img width="900" height="fit-content" src="https://github-readme-stats.vercel.app/api?username=1anya1&show_icons=true&theme=radical&count_private=true" />|  <img width="750" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anya1&layout=compact&theme=radical"/>|
+
+|<img width="900" height="fit-content"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />|  -->
+<div align="center" height='fit-content'>
+    <img src="hi.svg" width="100%"  alt="css-in-readme" />
+</div>
+
+<div  aling="middle">
+    <img width='53%' min-width='300' src="https://github-readme-stats.vercel.app/api?username=1anya1&show_icons=true&theme=radical&count_private=true" />
+    <img width='44%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anya1&layout=compact&theme=radical"/>
+</div>
+<img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=1anya1&theme=radical&date_format=M%20j%5B%2C%20Y%5D)"
+
+<div>
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ </div>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1anya1&repo=plants-app)](https://github.com/1anya1/plants-app) -->
 
 <!--
 **1anya1/1anya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
