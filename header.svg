@@ -5,7 +5,7 @@
             div{
                background-color: rgb(86,62,124);
                height: fit-content;
-               animation: mymove 2s infinite;
+               animation: mymove 3s infinite;
                padding: 30px;
              }
                
@@ -21,12 +21,15 @@
              }
 
             @keyframes mymove {
-                from {
+                0% {
                      background-color: rgb(86,62,124);
                 }
-                to {
+                50% {
                    
                   background-color: rgb(90,35,65);
+                }
+                100%{
+                   background-color: rgb(86,62,124);
                 }
             }
             </style>
