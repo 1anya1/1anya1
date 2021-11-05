@@ -1,0 +1,37 @@
+<svg fill="none"  viewBox="0 0 400 300" width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            div{
+               background-color: rgb(86,62,124);
+               height: fit-content;
+               animation: mymove 2s infinite;
+               padding: 30px;
+             }
+               
+            h1, h4 {
+                color: white;
+                font-weight: 300;
+                font-family: 'Open Sans', sans-serif;
+                 margin: unset;
+               
+            }
+                h4{
+                font-weight: 500;
+
+            @keyframes mymove {
+                from {
+                    background-color: rgb(86,62,124);
+                }
+                to {
+                   
+                 background-color: rgb(90,35,65);
+                }
+            }
+            </style>
+            <h4>Hi 👋, I'm </h4>
+            <h1> Anna </h1>
+           
+        </div>
+    </foreignObject>
+</svg>
