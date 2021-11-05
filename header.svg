@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             div{
-<!--                background-color: rgb(86,62,124); -->
+<!--            background-color: rgb(86,62,124); -->
                 background-color: #507C5D;
                height: fit-content;
                animation: mymove 3s infinite;
@@ -40,6 +40,7 @@
             </style>
             <h4>Hi 👋, I'm </h4>
             <h1> Anna </h1>
+            <img src="https://avatars.githubusercontent.com/u/52765927?s=400&u=0cd6509473458ef761c3c3762021a9faa48b336e&v=4" />
            
         </div>
     </foreignObject>
