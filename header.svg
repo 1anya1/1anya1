@@ -13,7 +13,7 @@
                 color: white;
                 font-weight: 300;
                 font-family: 'Open Sans', sans-serif;
-                 margin: unset;
+                margin: unset;
                
             }
                 h4{
@@ -21,11 +21,11 @@
 
             @keyframes mymove {
                 from {
-                    background-color: rgb(86,62,124);
+                     background-color: rgb(86,62,124);
                 }
                 to {
                    
-                 background-color: rgb(90,35,65);
+                  background-color: rgb(90,35,65);
                 }
             }
             </style>
