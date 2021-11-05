@@ -12,7 +12,7 @@
     <img width='53%' min-width='300' src="https://github-readme-stats.vercel.app/api?username=1anya1&show_icons=true&theme=noctis_minimus&count_private=true" />
     <img width='44%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anya1&layout=compact&theme=noctis_minimus"/>
 </div>
-<img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=1anya1&theme=noctis_minimus&date_format=M%20j%5B%2C%20Y%5D)"
+<img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=1anya1&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D)"
 
 <div>
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
