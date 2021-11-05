@@ -5,7 +5,7 @@
 
 |<img width="900" height="fit-content"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />|  -->
 <div align="center" height='fit-content'>
-    <img src="hi.svg" width="100%"  alt="css-in-readme" />
+    <img src="header.svg" width="100%"  alt="css-in-readme" />
 </div>
 
 <div  aling="middle">
