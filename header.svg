@@ -3,7 +3,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             div{
-               background-color: rgb(86,62,124);
+<!--                background-color: rgb(86,62,124); -->
+                background-color: #507C5D;
                height: fit-content;
                animation: mymove 3s infinite;
                padding: 30px;
@@ -22,14 +23,17 @@
 
             @keyframes mymove {
                 0% {
-                     background-color: rgb(217,58,125);
+<!--                      background-color: rgb(217,58,125); -->
+                           background-color: #725881;
                 }
                 50% {
                    
-                  background-color:  rgb(86,62,124);
+<!--                   background-color:  rgb(86,62,124); -->
+                        background-color: #507C5D;
                 }
                 100%{
-                   background-color: rgb(217,58,125);
+<!--                    background-color: rgb(217,58,125); -->
+                background-color: #725881;
                 }
             }
             </style>
