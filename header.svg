@@ -22,7 +22,7 @@
 
             @keyframes mymove {
                 0% {
-                     background-color: rgb(86,62,124);
+                     background-color: FD428E;
                 }
                 50% {
                    
