@@ -5,9 +5,9 @@
             div{
 <!--            background-color: rgb(86,62,124); -->
                 background-color: #507C5D;
-               height: fit-content;
-               animation: mymove 3s infinite;
-               padding: 30px;
+                height: fit-content;
+                animation: mymove 3s infinite;
+                padding: 30px;
                 transition: animation 1s ease-in-out;
              }
                
