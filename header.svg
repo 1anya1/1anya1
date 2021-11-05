@@ -14,19 +14,19 @@
                 font-weight: 300;
                 font-family: 'Open Sans', sans-serif;
                 margin: unset;
-                 animation: mymove 2s infinite;
                
             }
-                h4{
+             h4{
                 font-weight: 500;
+             }
 
             @keyframes mymove {
                 from {
-                     color: rgb(86,62,124);
+                     background-color: rgb(86,62,124);
                 }
                 to {
                    
-                  color: rgb(90,35,65);
+                  background-color: rgb(90,35,65);
                 }
             }
             </style>
