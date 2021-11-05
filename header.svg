@@ -8,6 +8,7 @@
                height: fit-content;
                animation: mymove 3s infinite;
                padding: 30px;
+                transition: animation 1s ease-in-out;
              }
                
             h1, h4 {
