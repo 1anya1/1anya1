@@ -12,9 +12,7 @@ I am a software engineer with a passion for front-end development and user-frien
 </div>
 </br>
 </br>
- <font size=1> This is my text number1</font> 
 
- <font size="2"> This is my text number 2 </font>
 <div  aling="middle">
     <img width='53%' min-width='300' src="https://github-readme-stats.vercel.app/api?username=1anya1&show_icons=true&theme=noctis_minimus&count_private=true" />
     <img width='44%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anya1&layout=compact&theme=noctis_minimus"/>
