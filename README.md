@@ -4,9 +4,9 @@
 |<img width="900" height="fit-content" src="https://github-readme-stats.vercel.app/api?username=1anya1&show_icons=true&theme=radical&count_private=true" />|  <img width="750" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anya1&layout=compact&theme=radical"/>|
 
 |<img width="900" height="fit-content"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />|  -->
-<div align="center" height='fit-content'>
+<!-- <div align="center" height='fit-content'>
     <img src="header.svg" width="100%"  alt="css-in-readme" />
-</div>
+</div> -->
 <div>
 I am a software engineer with a passion for front-end development and user-friendly experiences. I'm looking to bring my web application development experience as a Front End Engineer or Web Developer. My technical background includes a strong understanding of front-end technologies, including HTML, CSS, Javascript (ES6), and the latest development approaches in programming, using React.js, modular code, and modern responsive design.
 </div>
