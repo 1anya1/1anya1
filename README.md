@@ -8,7 +8,7 @@
     <img src="header.svg" width="100%"  alt="css-in-readme" />
 </div> -->
 <div>
-I am a software engineer with a passion for front-end development and user-friendly experiences. I'm looking to bring my web application development experience as a Front End Engineer or Web Developer. My technical background includes a strong understanding of front-end technologies, including HTML, CSS, Javascript (ES6), and the latest development approaches in programming, using React.js, modular code, and modern responsive design.
+I am a software engineer with a passion for front-end development and user-friendly experiences. I'm looking to bring my web application development experience as a Full Stack Developer. My technical background includes a strong understanding of front-end technologies, including HTML, CSS, Javascript (ES6), and the latest development approaches in programming, using React.js, modular code, and modern responsive design.
 </div>
 </br>
 </br>
